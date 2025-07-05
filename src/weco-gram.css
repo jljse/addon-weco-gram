@@ -1,0 +1,10 @@
+.price_per_gram {
+    font-size: 0.8em;
+    color: #555;
+    margin-left: 10px;
+}
+
+.price_per_gram .num {
+    font-weight: bold;
+    color: #000;
+}
