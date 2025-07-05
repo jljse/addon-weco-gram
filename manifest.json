@@ -6,7 +6,7 @@
   "description": "ウィークリーコープでグラム価格を表示",
   "homepage_url": "https://github.com/jljse/addon-weco-gram",
   "icons": {
-    "48": "icons/icon.png"
+    "128": "icons/icon.png"
   },
  "content_scripts": [
    {
