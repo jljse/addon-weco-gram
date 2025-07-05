@@ -46,8 +46,8 @@ document.querySelectorAll('.carouselBox').forEach(carousel => {
     return;
   }
 
-  console.log(carousel);
-  console.log(`Name: ${name}, Weight: ${weight}, Price: ${price}`);
+  // console.log(carousel);
+  // console.log(`Name: ${name}, Weight: ${weight}, Price: ${price}`);
 
   const gram = parseWeight(weight);
   const priceValue = parsePrice(price);
@@ -58,5 +58,5 @@ document.querySelectorAll('.carouselBox').forEach(carousel => {
 })
 
 document.querySelectorAll('.itemDetailSet .txtArea').forEach(carousel => {
-  console.log(carousel);
+  // console.log(carousel);
 })
